@@ -78,7 +78,7 @@ As i removed quite a few features from this analysis, i was not able to determin
 
 ### For more information
 
-See the full analysis in the [Jupyter Notebook](./king_county_housing_analysis) or review this [presentation](./king_county_housing_presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./king_county_housing_analysis.ipynb) or review this [presentation](./king_county_housing_presentation.pdf).
 
 ### Repository Structure
 
