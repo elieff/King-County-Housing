@@ -55,15 +55,15 @@ Here is the function that i produced to determine pricing using my final data mo
 
 From the model that i created i was able to answer the questions that were asked in the beginning
 
-![res1](images/results_bath.png)
+![fnc](images/resultsbath.png)
 
 Adding a bathroom could potentially add $35112 to the house sale price
 
-![res2](images/results_sqft.png)
+![ress](images/results_sqft.png)
 
 Per sqft adds approximately $195 to the sale price
 
-![res3](images/results_grade.png)
+![resss](images/results_grade.png)
 
 A change in grade of the house could potentially increase the price by $276017
 
