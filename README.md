@@ -1,4 +1,4 @@
-![ima](king_county.jpg)
+![ima](images/king_county.jpg)
 
 # King County Sales Analysis & Model
 
@@ -51,19 +51,19 @@ I used a variety of functions based on functions imported from the sklearn libra
 ### Results
 Here is the function that i produced to determine pricing using my final data model
 
-![fnc](function.png)
+![fnc](images/function.png)
 
-From the model that i created i was able to answer the questions that were asked in the beginning:
+From the model that i created i was able to answer the questions that were asked in the beginning
 
-![res1](results_bath.png)
+![res1](images/results_bath.png)
 
 Adding a bathroom could potentially add $35112 to the house sale price
 
-![res2](results_sqft.png)
+![res2](images/results_sqft.png)
 
 Per sqft adds approximately $195 to the sale price
 
-![res3](images\results_grade.png)
+![res3](images/results_grade.png)
 
 A change in grade of the house could potentially increase the price by $276017
 
